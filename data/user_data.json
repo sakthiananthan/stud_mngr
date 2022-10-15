@@ -1,0 +1,78 @@
+{
+    "user_type": {
+        "student": [
+            {
+                "first_name": "student",
+                "last_name": "3",
+                "qualification": "asdf",
+                "phone": "1231239",
+                "address": "asdf",
+                "gender": "male",
+                "doj": "2022-10-14",
+                "course": {
+                    "python": "Inprogress",
+                    "photoshop": "Inprogress",
+                    "tally": "Inprogress"
+                },
+                "email": "asdf@asdf",
+                "user_id": "student.3@sakthicomputers.com",
+                "password": "1231239"
+            },
+            {
+                "first_name": "test",
+                "last_name": "student",
+                "qualification": "abc",
+                "phone": "12345678",
+                "address": "asdf",
+                "gender": "male",
+                "doj": "2022-10-27",
+                "course": {
+                    "Tally": "Inprogress"
+                },
+                "email": "asdf@asdm.com",
+                "user_id": "test.student@sakthicomputers.com",
+                "password": "12345678"
+            },
+            {
+                "first_name": "Sivaranja274ni",
+                "last_name": "Sakthiananthan",
+                "qualification": "BCA",
+                "phone": "8754451274",
+                "address": "Tuty",
+                "gender": "female",
+                "doj": "1994-03-19",
+                "course": {
+                    "Python": "Inprogress",
+                    "python": "Inprogress",
+                    "photoshop": "Inprogress",
+                    "tally": "Inprogress"
+                },
+                "email": "sivai12071993@gmail.com",
+                "user_id": "Sivaranja274ni.Sakthiananthan@sakthicomputers.com",
+                "password": "8754451274"
+            }
+        ],
+        "admin": [
+            {
+                "user_name": "Sakthi Ananthan",
+                "user_email": "sakthisakthiananthan@gmail.com",
+                "user_password": "test123456"
+            },
+            {
+                "user_name": "siva",
+                "user_email": "siva@gmail.com",
+                "user_password": "1234"
+            },
+            {
+                "user_name": "siva",
+                "user_email": "sakthi@gmail.com",
+                "user_password": "1234"
+            },
+            {
+                "user_name": "Sivaranjani S",
+                "user_email": "sivai12071993@gmail.com",
+                "user_password": "Sakthi@123"
+            }
+        ]
+    }
+}
